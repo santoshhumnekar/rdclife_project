@@ -24,7 +24,7 @@
     }
 
 
-    // Toggle between showing and hiding the sidebar when clicking the menu icon
+    // Toggle between showing and hiding the sidebar when clicking the menu icons
     var mySidebar = document.getElementById("mySidebar");
 
     function w3_open() {
