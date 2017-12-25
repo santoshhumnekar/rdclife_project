@@ -1,0 +1,48 @@
+#myVideo {
+    position: center;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 40%;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Raleway", sans-serif
+}
+
+body,
+html {
+    height: 100%;
+    line-height: 1.8;
+}
+
+
+/* Full height image header */
+
+
+/*.bgimg-2 {
+    position: center;
+    background-size: cover;
+    background-image: url("/assets/logo.jpg");
+    min-height: 50%;
+}*/
+
+.imgLogo {
+    display: block;
+    margin: 0 auto;
+}
+
+.cmd {
+    display: block;
+    margin: 0 auto;
+}
+
+.w3-bar .w3-button {
+    padding: 16px;
+}
